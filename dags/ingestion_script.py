@@ -1,5 +1,3 @@
-# schedule_ingestion.py
-
 import logging
 import requests
 import zipfile
