@@ -1,2 +1,5 @@
 requests
 awscli
+pandas
+airflow
+shutil
